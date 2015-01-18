@@ -7,3 +7,5 @@ My web start kit
 4. Download repo intr-un folder
 5. In folder respectiv rulezi cmd: npm install - se va instala tot listingul din package.json
 6. Configurare Gruntfile.js
+
+npm outdated (check for package version) -> npm update
