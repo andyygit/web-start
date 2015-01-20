@@ -9,3 +9,5 @@ My web start kit
 6. Configurare Gruntfile.js
 
 npm outdated (check for package version) -> npm update
+
+npm cache clean cand faci mess
