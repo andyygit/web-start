@@ -1,4 +1,5 @@
 # web-start
+# deprecated -> webpack.js
 My web start kit
 
 1. Install Nnode.js
