@@ -1,5 +1,5 @@
 # web-start
-My web start kit -deprecated -> webpack.js
+My web start kit - deprecated -> webpack.js
 
 1. Install Nnode.js
 2. citeste https://github.com/npm/npm/wiki/Troubleshooting#upgrading-on-windows
